@@ -36,5 +36,4 @@ sql_ecommerce_analysis/
 ## Используемый стек
 - SQLite
 - SQL
-- Python (для генерации данных)
-- Matplotlib / Seaborn (для визуализации)
+- Matplotlib, Seaborn
